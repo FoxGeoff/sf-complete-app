@@ -9,7 +9,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Project Ref: <https://angular.io/tutorial/first-app>   Build your first Angular app (github/first-app)
 
 ***
-This project will show how to work with the new Angular 17 project
+This project will show how to work with the new Angular 17 project.
+
+1. Ver 17 and on are standalone components
+2. See: Getting started with standalone components
+3. Ref: <https://angular.io/guide/standalone-components>
+
 ***
 
 1. Ref: <https://learning.oreilly.com/videos/angular-the/9781788998437/9781788998437-video2_2/>
