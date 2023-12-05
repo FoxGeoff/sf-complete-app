@@ -4,6 +4,17 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## introduction
 
+***
+
+### Project Ref: <https://angular.io/tutorial/first-app>   Build your first Angular app
+
+***
+This project will show how to work with the new Angular 17 project
+***
+
+1. Ref: <https://learning.oreilly.com/videos/angular-the/9781788998437/9781788998437-video2_2/>
+2. Angular - The Complete Guide [2023 Edition] (start @ Chp2)
+
 ## Task: install Bootstrap
 
 1. Run "npm i bootstrap@5.3.2"
@@ -26,3 +37,11 @@ Test Bootstrap
   </div>
  </div>
  ```
+
+***
+
+## Project Ref: <https://angular.io/tutorial/first-app>   Build your first Angular app
+
+***
+This project will show how to work with the new Angular 17 project
+***
