@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ***
 
-### Project Ref: <https://angular.io/tutorial/first-app>   Build your first Angular app
+### Project Ref: <https://angular.io/tutorial/first-app>   Build your first Angular app (github/homes)
 
 ***
 This project will show how to work with the new Angular 17 project
